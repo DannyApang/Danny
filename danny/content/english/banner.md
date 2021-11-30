@@ -1,14 +1,14 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm Danny"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Huandong"
+last_name : "CAO"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "PhD student at Columbia University"
+- "Teacher"
+- "Thinker"
 
 # slider background image loop
 slider_images:
@@ -16,11 +16,11 @@ slider_images:
 - "images/slider/slider-2.jpg"
 - "images/slider/slider-3.jpg"
 
-# button
-button:
-  enable : true
-  label : "HIRE ME"
-  link : "#contact"
+# # button
+# button:
+#   enable : true
+#   label : "HIRE ME"
+#   link : "#contact"
 
 
 # custom style
